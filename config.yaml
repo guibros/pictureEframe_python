@@ -1,0 +1,4 @@
+delay: 5
+hourOFF: '18:00'
+hourON: '8:30'
+path: /home/albums/albums/
