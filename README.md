@@ -1,7 +1,7 @@
-# pictureE-frame_python
+# Picture eFrame on a Raspberry Pi
 
-Project for an Electronic picture frame.
-Raspberry pi GPIO setup with buttons to open, shutdown, sleep, show and switch images in different folders, in a randomly order.  Images are resized to fit the frame full screen
+
+The eFrame show pictures in a random order. Each picture can be a JPG, a JPEG or an PNG; eachpicture is resized automatically to the screen. GPIO buttons commands can turn on or off the eFrame, put it to sleep mode after some time, and switch between image folders.
 
 
 Module:
